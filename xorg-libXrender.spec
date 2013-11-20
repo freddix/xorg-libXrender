@@ -1,7 +1,7 @@
 Summary:	X Render extension library
 Name:		xorg-libXrender
 Version:	0.9.8
-Release:	1
+Release:	2
 License:	MIT
 Group:		X11/Libraries
 Source0:	http://xorg.freedesktop.org/releases/individual/lib/libXrender-%{version}.tar.bz2
